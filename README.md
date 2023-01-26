@@ -81,9 +81,9 @@ Coroutines
      <td>Update note</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/VinayakLokhande/VnotesApp/blob/main/Screenshots/home.jpg" width="300" height="500"></td>
-    <td valign="top"><img src="https://github.com/VinayakLokhande/VnotesApp/blob/main/Screenshots/save.jpg" width="300" height="500"></td>
-    <td valign="top"><img src="https://github.com/VinayakLokhande/VnotesApp/blob/main/Screenshots/update.jpg" width="300" height="500"></td>
+    <td valign="top"><img src="https://github.com/VinayakLokhande/Vnotes/blob/main/Screenshots/home.jpg" width="300" height="500"></td>
+    <td valign="top"><img src="https://github.com/VinayakLokhande/Vnotes/blob/main/Screenshots/Screenshot_2023-01-11-20-09-28-312_com.example.android.notesapp_room_mvvm.jpg" width="300" height="500"></td>
+    <td valign="top"><img src="https://github.com/VinayakLokhande/Vnotes/blob/main/Screenshots/update.jpg?raw=true" width="300" height="500"></td>
   </tr>  
   
 
