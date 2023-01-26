@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VNotes</string>
+    <string name="add_your_note">Add your note</string>
+    <string name="title">Title</string>
+    <string name="enter_note">Enter your note here...</string>
+    <string name="add_btn">Add Note</string>
+    <string name="Note_added">Note Added...</string>
+    <string name="Note_updated">Note Updated...</string>
+</resources>
